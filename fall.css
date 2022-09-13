@@ -6,6 +6,8 @@
 #game{
     width :400px;
     height:500px;
+    margin: auto;
+    margin-top: 5%;
     border :1px solid black;
     
 }
